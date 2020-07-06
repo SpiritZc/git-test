@@ -17,8 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Date: 2020-7-2 12:57
  * @Version: 1.0
  */
-@EnableAutoConfiguration
-@RestController
+@SpringBootApplication
 public class GitApplication extends SpringBootServletInitializer {
 
     public static void main(String[] args) {
