@@ -36,6 +36,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
 <build>
     <finalName>git-jenkins</finalName>
     <plugins>
@@ -45,5 +46,6 @@
         </plugin>
     </plugins>
 </build>
+
 
 </project>
