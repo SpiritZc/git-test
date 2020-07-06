@@ -38,7 +38,6 @@
     </dependencies>
 
 <build>
-    <finalName>git-jenkins</finalName>
     <plugins>
         <plugin>
             <groupId>org.springframework.boot</groupId>
